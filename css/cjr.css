@@ -205,3 +205,11 @@
 	margin-top: -10px;
 }
 
+.about-section {
+  background-color: #14141E;
+}
+
+.skills-raised {
+  background-color: #1C1B29;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
