@@ -192,17 +192,25 @@
   padding-top: 3px !important;
   padding-bottom: 3px !important;
 }*/
-.bg-default {
-	background-color: #F7941E !important;
+
+.navbar-nav .nav-item:hover {
+  background-color: #14141E !important;
+  -webkit-transition:all 0.85s ease-in-out;
+  -moz-transition:all 0.85s ease-in-out;
+  -o-transition:all 0.85s ease-in-out;
+  -ms-transition:all 0.85s ease-in-out;
+  transition:all 0.85s ease-in-out;
+  border-radius: 5px;
+
 }
-.bg-default2 {
-	background-color: #190e00 !important;
-}
-.mleft-0 {
-	margin-left: -50px;
-}
-.ptop-0{
-	margin-top: -10px;
+.navbar-nav .nav-item {
+  -webkit-transition:all 0.35s ease-in-out;
+  -moz-transition:all 0.35s ease-in-out;
+  -o-transition:all 0.35s ease-in-out;
+  -ms-transition:all 0.35s ease-in-out;
+  transition:all 0.35s ease-in-out;
+  border-radius: 5px;
+
 }
 
 .about-section {
