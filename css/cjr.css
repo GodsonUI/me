@@ -218,8 +218,30 @@
   height: 10px;
   border-radius: 3px;
 }
-
+.progress-bar {
+  background-color: #0FBB59;
+}
+.text-default {
+  color: #0FBB59;
+}
+.bg-default {
+  background-color: #0FBB59 !important;
+}
 .navbar {
   color: #fff;
   background-color: #1C1B29 !important;
+}
+.first-slide {
+  background: linear-gradient(rgba(50,49,62, 0.8), rgba(28,27,41, 0.2)), url('../images/banner.jpg') no-repeat center center fixed;;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.second-slide {
+  background: linear-gradient(rgba(50,49,62, 0.8), rgba(28,27,41, 0.2)), url('../images/banner2.jpg') no-repeat center center fixed;;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
