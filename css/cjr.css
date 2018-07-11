@@ -239,6 +239,10 @@
 .bg-default {
   background-color: #0FBB59 !important;
 }
+.border-default {
+  border-color: #0FBB59;
+
+}
 .navbar {
   color: #fff;
   background-color: #1C1B29 !important;
